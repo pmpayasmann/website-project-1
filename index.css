@@ -1,0 +1,50 @@
+.navbar {
+
+    background-color: bisque;
+    display: flex;
+
+}
+
+.navbar ul{
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+
+.navber_ul {
+
+    
+   
+
+}
+
+
+.navber ul div li{
+
+    
+
+
+    
+}
+
+
+.navbar_ul_div2 ul li a{
+
+    color: black;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.navbar_ul_div2 ul li{
+
+    margin-left: 30px;
+}
+
+.navbar_ul_div1 li a{
+
+    color: black;
+}
+
