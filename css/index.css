@@ -37,22 +37,3 @@
     text-decoration: none;
     font-size: 20px;
 }
-
-.image {
-    background-image: url(/Users/payasmann/Desktop/github/website-project-1/media/images/index.jpg);
-    height: 500px;
-    width: 100%;
-    background-repeat: no-repeat;
-}
-
-.image_head {
-    display: flex;
-    justify-content: space-between;
-}
-
-.image div spam {
-    color: lightgreen;
-    text-align: center;
-    font-size: 50px;
-    font-weight: bolder;
-}
