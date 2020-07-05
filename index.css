@@ -10,6 +10,8 @@
     height: auto;
     width: auto;
     justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .navbar_div2 {
@@ -38,11 +40,19 @@
     font-size: 20px;
 }
 
+
+/*
 .image {
     background-image: url(/Users/payasmann/Desktop/github/website-project-1/media/images/index.jpg);
     height: 500px;
     width: 100%;
     background-repeat: no-repeat;
+} */
+
+.image {
+    background-color: darkblue;
+    height: 550px;
+    width: 100%;
 }
 
 .image_head {
@@ -55,4 +65,15 @@
     text-align: center;
     font-size: 50px;
     font-weight: bolder;
+}
+
+.space {
+    height: 50px;
+    width: 100%;
+    /* background-color: green; */
+}
+
+.layout_div4 {
+    display: flex;
+    justify-content: space-between;
 }
